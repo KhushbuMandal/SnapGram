@@ -75,6 +75,8 @@ and many more, including code architecture and reusability
 
 https://snap-gram-teal.vercel.app/sign-in
 
+## Screenshots
 
+![Screenshot (208)](https://github.com/KhushbuMandal/SnapGram/assets/131984812/0c6c8897-7215-41ad-bfac-1ef7c3147305)
 
 
