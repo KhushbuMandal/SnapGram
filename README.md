@@ -70,7 +70,7 @@ Explore social media with this user-friendly platform that has a nice look and l
 
 and many more, including code architecture and reusability 
 
-## <a name="live-link">:hammer: Live-Link</a>
+## <a name="live-link">🔗 Live-Link</a>
 
 https://snap-gram-teal.vercel.app/sign-in
 
