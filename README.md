@@ -24,9 +24,8 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Live-Link](#live-link)
-5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
+5. :camera: [Screenshots](#screenshots)
+
 
 
 
@@ -75,8 +74,26 @@ and many more, including code architecture and reusability
 
 https://snap-gram-teal.vercel.app/sign-in
 
-## Screenshots
+## <a name="screenshots">:camera: Screenshots</a>
+
+This image depicts the login page of  Snapgram. It contains input fields for email and password.
 
 ![Screenshot (208)](https://github.com/KhushbuMandal/SnapGram/assets/131984812/0c6c8897-7215-41ad-bfac-1ef7c3147305)
+
+This image shows the sign-up page for the  Snapgram, where users can create a new account by entering their name, username, email, and password. It features illustrations depicting people using devices and technology in various settings, representing the app's functionality.
+
+![Screenshot (209)](https://github.com/KhushbuMandal/SnapGram/assets/131984812/3ffe4eb0-8649-40e4-8636-13785f2090e4)
+
+This image depicts the various functionalities of Snapgram such as Home ,Explore ,People ,Saved ,Create Post and on the Right Hand side then Top creators and in the middle our feed with like and save functionalities. :smirk:
+
+![Screenshot (210)](https://github.com/KhushbuMandal/SnapGram/assets/131984812/fd8f4715-27fc-4e5d-b693-382b8d6a1a8d)
+
+
+
+
+
+
+
+
 
 
